@@ -6,5 +6,5 @@ p.sample1 {border: double 10px #0000ff;}
 p.sample2 {border: inset 10px #ff0000;}
 p.sample3 {margin: 30px 30px;padding: 10px;border:medium solid #ff00ff;}
 @keyframes blink-red{ 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; }}
-p.sample4 {color: red; animation:blink-red 1s infinite;}
+p.sample4 {color: red; animation:blink-red 3s infinite;}
 
