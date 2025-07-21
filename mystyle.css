@@ -2,8 +2,8 @@
 h1{color: #adff2f;}
 th,td {border: dashed thick #000000;}
 th.important {color: red;}
-p.sample1 {border: double 40px #0000ff;}
-p.sample2 {border: inset 40px #ff0000;}
-p.sample3 {margin: 30px 30px;padding: 10px;border:medium solid #ff00ff;}
-body {background-color: #20b2aa;}
+p.sample1 {border: double 20px #0000ff;}
+p.sample2 {border: inset 20px #ff0000;}
+p.sample3 {margin: 30px 30px;padding: 30px;border:medium solid #ff00ff;}
+body {background-color: #ffe4b5;}
 
